@@ -1,0 +1,34 @@
+/*1: Mouse Over *///➡
+
+
+/*2: Keydown *///➡
+
+
+/*3: Wheel *///➡
+
+
+/*4: Load *///➡
+
+
+/*5: Focus *///➡
+
+
+/*6: Resize *///➡
+
+
+/*7: Scroll *///➡
+
+
+/*8: Select *///➡
+
+
+/*9: dblclick *///➡
+
+
+/*10: Drap / Drop *///➡
+
+
+/*11: Prevent event propagation *///➡
+
+
+/*12: preventDefault() */
